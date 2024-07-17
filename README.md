@@ -1,25 +1,11 @@
+#hi--im-Suresh-Siripurapu
 
-
-  ![test](https://github.com/user-attachments/assets/95550d7a-fd47-4557-b466-fc58391f5cf2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @sureshsiripurapu5
+- 👋 I’m currently learning JAVA FULLSTACK
 - 👀 I’m interested in doing Springboot projects ...
-- 🌱 I’m proficient in c++,Java,C# ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💬 Ask me about C++,JAVA,C#
+- 📫 How to reach me siripurapusuresh5@gmail.com
+- ⚡ Fun fact I am Funny
+  
 
 <!---
 sureshsiripurapu5/sureshsiripurapu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
