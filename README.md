@@ -28,9 +28,7 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 ### 🔧 Backend
 
 ![icons8-c++-48](https://github.com/user-attachments/assets/f5081767-9d3c-48dc-b9d3-183fe4e3c104)
-
 ![icons8-java-logo-100](https://github.com/user-attachments/assets/1267865d-54ca-40fa-b893-acd6beebac13)
-
 ![icons8-c-sharp-logo-48](https://github.com/user-attachments/assets/55bad78b-9690-4f4c-aa68-ee7011843669)
 ![icons8-spring-boot-48](https://github.com/user-attachments/assets/c7cbe38b-218b-43bd-bcf5-c224098efb82)
 ![icons8-spring-boot-40](https://github.com/user-attachments/assets/1c2fbe13-c01d-4af9-b385-655d1771fa73)
@@ -67,8 +65,8 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=suresh2218&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh2218&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=siripurapusuresh5&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=siripurapusuresh5&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
 
