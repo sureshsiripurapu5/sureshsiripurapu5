@@ -27,11 +27,15 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 ### 🔧 Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![icons8-c++-48](https://github.com/user-attachments/assets/f5081767-9d3c-48dc-b9d3-183fe4e3c104)
+
+![icons8-java-logo-100](https://github.com/user-attachments/assets/1267865d-54ca-40fa-b893-acd6beebac13)
+
+![icons8-c-sharp-logo-48](https://github.com/user-attachments/assets/55bad78b-9690-4f4c-aa68-ee7011843669)
+![icons8-spring-boot-48](https://github.com/user-attachments/assets/c7cbe38b-218b-43bd-bcf5-c224098efb82)
+![icons8-spring-boot-40](https://github.com/user-attachments/assets/1c2fbe13-c01d-4af9-b385-655d1771fa73)
+![icons8-mysql-logo-48](https://github.com/user-attachments/assets/d5d4cb3b-9f49-43bb-8be8-774739fda8dd)
+
 <br/>
 
 
