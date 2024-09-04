@@ -19,13 +19,10 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 ![icons8-html-logo-48](https://github.com/user-attachments/assets/f2b71d70-9805-428e-8dc5-7feb8560bf02)
 ![icons8-css-logo-48](https://github.com/user-attachments/assets/2e85ec2a-7352-4984-a7e0-2e44faf54988)
+![icons8-javascript-48](https://github.com/user-attachments/assets/fd205130-9c7b-40c1-be74-d6561731e6d3)
+![icons8-bootstrap-logo-48](https://github.com/user-attachments/assets/b3a58eb1-7476-4f65-be7e-089bb097c958)
+![icons8-thymeleaf-48](https://github.com/user-attachments/assets/bc6da10d-7485-46ec-8062-17007655744c)
 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2335495e.svg?style=for-the-badge&logo=tailwindcss&logoColor=%234FC08D)
-![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=%CC6699)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 <br/>
 
 ### 🔧 Backend
