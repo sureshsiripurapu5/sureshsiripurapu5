@@ -2,7 +2,7 @@
 
 **`Java Fullstack Developer`**
 
-Full Stack Developer specializing in MERN stack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with React, Node.js, Express, and MongoDB. Let's build something amazing together!
+Full Stack Developer specializing in Java Fullstack technologies. Passionate about creating dynamic web applications and continuously learning new skills. Experienced with Spring, Springboot, Hibernate, and MySql. Let's build something amazing together!
 
 
 ### 🚀 More about me
@@ -28,7 +28,7 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 ### 🔧 Backend
 
 ![icons8-c++-48](https://github.com/user-attachments/assets/f5081767-9d3c-48dc-b9d3-183fe4e3c104)
-![icons8-java-logo-100](https://github.com/user-attachments/assets/1267865d-54ca-40fa-b893-acd6beebac13)
+![icons8-java-logo-48](https://github.com/user-attachments/assets/1267865d-54ca-40fa-b893-acd6beebac13)
 ![icons8-c-sharp-logo-48](https://github.com/user-attachments/assets/55bad78b-9690-4f4c-aa68-ee7011843669)
 ![icons8-spring-boot-48](https://github.com/user-attachments/assets/c7cbe38b-218b-43bd-bcf5-c224098efb82)
 ![icons8-spring-boot-40](https://github.com/user-attachments/assets/1c2fbe13-c01d-4af9-b385-655d1771fa73)
@@ -55,20 +55,13 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 ### 🔗 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-alabani-b49724199/)
-[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURESH2218/)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sureshalabani2785@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linked%20in-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-siripurapu-483121217/)
+[![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sureshsiripurapu5)
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siripurapusuresh5@gmail.com)
 
 #
 
-### 📊 Github Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=suresh2218&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suresh2212&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
-  </tr>
-</table>
 
 
   
