@@ -17,7 +17,8 @@ Full Stack Developer specializing in MERN stack technologies. Passionate about c
 
 ### 🌐 Frontend
 
-![HTML5](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![icons8-html-logo-48](https://github.com/user-attachments/assets/f2b71d70-9805-428e-8dc5-7feb8560bf02)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
