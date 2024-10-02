@@ -8,7 +8,7 @@ Full Stack Developer specializing in Java Fullstack technologies. Passionate abo
 ### 🚀 More about me
 
 - 🌱 I’m currently learning **Fullstack Development**
-- 👨‍💻 Personal portfolio: **<a href="https://sureshsiripurapu5.github.io/sureshsiripurapu7/">Portfolio</a>**
+
 - 📫 How to reach me: **siripurapusuresh5@gmail.com**
 
 ---
